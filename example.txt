@@ -1,0 +1,11 @@
+{
+  allPrefijos{
+    edges{
+      node{
+        keyx,
+        prefijo,
+        fechaalta
+      }
+    }
+  }
+}
