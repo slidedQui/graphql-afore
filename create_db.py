@@ -1,4 +1,4 @@
-from db import catprefijos,Base,engine
+from db.db import catprefijos,Base,engine
 
 
 print("Creating database......")
