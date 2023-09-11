@@ -3,17 +3,17 @@ Api de flask/GraphQl/SqlAlchemy realizada para la empresa donde empleo como tema
 
 # Como Ejecutar
 Crear entorno virtual de python con el siguiente comando(en la carpeta raiz del proyecto)<br>
-    python -m venv ven<br>
+    &nbsp;python -m venv ven<br>
 Ejecutar entorno virtul con el siguiente comando<br>
-    ubicarse en la carpeta Script(bin para linux)<br>
-        cd env<br>
-            cd Script(bin para linux)<br>
-    una vez dentro ejecutar el activate<br>
-        windows:<br>
-            .\activate<br>
-        linux <br>
-            source activate<br>
+    &nbsp;ubicarse en la carpeta Script(bin para linux)<br>
+        &nbsp;&nbsp;cd env<br>
+            &nbsp;&nbsp;cd Script(bin para linux)<br>
+    &nbsp;una vez dentro ejecutar el activate<br>
+        &nbsp;&nbsp;windows:<br>
+            &nbsp;&nbsp;&nbsp;.\activate<br>
+        &nbsp;&nbsp;linux <br>
+            &nbsp;&nbsp;&nbsp;source activate<br>
 Instalar dependencias en el entorno virual<br>
-    pip install -r requerimientoswindows/mac.txt<br>
+    &nbsp;pip install -r requerimientoswindows/mac.txt<br>
 Ejecutar app con el siguiente comando(en la carpeta raiz del proyecto)<br>
-    flask run<br>
+    &nbsp;flask run<br>
