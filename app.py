@@ -1,6 +1,6 @@
 from flask import Flask
 from flask_graphql import GraphQLView
-from schemas import schema
+from schemas.schemas import schema
 app=Flask(__name__)
 app.add_url_rule(
     "/graphql",

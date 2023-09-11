@@ -9,3 +9,14 @@
     }
   }
 }
+
+
+mutation{
+  mutatePrefijo(keyx:5,fechaalta:"2023-10-03",prefijo:"Sra"){
+    addprefijo{
+      keyx,
+      prefijo,
+      fechaalta
+    }
+  }
+}
