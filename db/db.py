@@ -11,6 +11,7 @@ session=scoped_session(
     sessionmaker(bind=engine)
 )
 Base.query=session.query_property()
+
 class catprefijos(Base):
     __tablename__="catprefijos"
     keyx=Column(Integer(),primary_key=True)
